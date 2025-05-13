@@ -7,5 +7,5 @@ spec:
     app.kubernetes.io/name: grouponeapp
   ports:
     - protocol: TCP
-      port: 85
+      port: 82
       targetPort: 9376
